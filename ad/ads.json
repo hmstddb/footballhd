@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/icon.png",
       "cover": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/graphic.png",
-      "appName": "Live Football HD",
-      "description": "WWatch 2024 Live Football TV HD online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
-      "package": "football.live.tv",
+      "appName": "Champion League",
+      "description": "WWatch 2024 Champion League online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
+      "package": "champion.league.live.tv",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
@@ -14,7 +14,7 @@
       "cover": "https://raw.githubusercontent.com/hmstddb/footballtv247/master/ad/graphic1.png",
       "appName": "Africa Cup 2023",
       "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "com.africa.cup",
+      "package": "eu.livesport.FlashScore_com",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
