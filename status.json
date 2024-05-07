@@ -2,8 +2,8 @@
   {
     "com.africa.cup.zzz": {
       "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-8330030365142195/7183067391",
-      "app_id": "ca-app-pub-8330030365142195~1136533795",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
 
       "interval": 45000,
       "is_id": "1d34327a5",
@@ -24,9 +24,9 @@
       }
     },
     "champion.league.live.tv": {
-      "ads_list": ["am", "is"],
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "ads_list": [""],
+      "am_in": "",
+      "app_id": "",
 
       "interval": 45000,
       "is_id": "",
